@@ -1,0 +1,25 @@
+site_name: High Performance Computing @ Tribhuvan University
+theme:
+  name: material
+  #favicon: assets/logo.png
+
+  # Option for Footer
+  features:
+    - navigation.footer
+    - navigation.path
+
+  #color pallate for light and dark
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+nav:
