@@ -8,6 +8,7 @@ The HPC system plays a vital role in accelerating research across multiple domai
 ## Establishment and Evolution
 The **HPC cluster** was initiated on **September 1, 2018**, with support from the **Alexander von Humboldt (AvH) Foundation, Germany**, and **Higher Education Reform Project (HERP) of TU**. The system has since evolved, incorporating **multi-core CPU clusters, high-performance GPUs, and optimized software environments** for parallel computing.
 
+
 ## Objectives of TU HPC
 The TU HPC infrastructure aims to:
 
@@ -18,7 +19,7 @@ The TU HPC infrastructure aims to:
 -  **Support large-scale simulations, machine learning, and data analytics**.
 
 ## Research Domains Supported
-The HPC cluster at TU facilitates research in the following areas:
+The HPC cluster at TU facilitates currently working on research in the following areas:
 
 -  **Condensed Matter Physics**: First-principles calculations and quantum simulations.
 -  **Artificial Intelligence & Machine Learning**: Training and deploying deep learning models.

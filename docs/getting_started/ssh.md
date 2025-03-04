@@ -51,8 +51,4 @@ Type : yes, otherwise the system will disconnet.
 
 Note: The typed password is invisible in terminal.
 
-## Forgot Password?
-
-Please raise a ticket regarding this issue under  User Support  and the system administrator will resolve your problem. 
-
-
+> _Enabling researchers with high-performance computing power!_ 🚀
