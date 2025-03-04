@@ -1,6 +1,8 @@
 site_name: Tribhuvan University's Super Computer (HPC)
 repo_url: https://github.com/amrltu/hpc-tu.github.io
 edit_uri: edit/main/docs/
+site_url: https://hpc-tu.github.io/
+
 theme:
   name: material
   favicon: assets/img/logo2.png
