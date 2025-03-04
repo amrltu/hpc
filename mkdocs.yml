@@ -1,7 +1,7 @@
-site_name: High Performance Computing @ Tribhuvan University
+site_name: Tribhuvan University's Super Computer | HPC in Nepal
 theme:
   name: material
-  #favicon: assets/logo.png
+  favicon: assets/img/logo2.png
 
   # Option for Footer
   features:
@@ -23,3 +23,59 @@ theme:
         name: Switch to light mode
 
 nav:
+  - Home: index.md
+  - About HPC:
+      - Introduction: about/introduction.md
+      - Mission & Objectives: about/mission.md
+      - Research Applications: about/research.md
+      - HPC Team: about/team.md
+  - HPC Resources:
+      - Compute Infrastructure: resources/compute.md
+      - Storage Details: resources/storage.md
+      - Network & Security: resources/network.md
+      - Software & Tools: resources/software.md
+  - Access & Accounts:
+      - Who Can Access?: access/who_can_access.md
+      - Account Registration: access/registration.md
+      - User Roles & Permissions: access/roles.md
+      - Security Guidelines: access/security.md
+  - Getting Started:
+      - SSH Access: getting_started/ssh.md
+      - Running First Job: getting_started/first_job.md
+      - File Transfers: getting_started/file_transfer.md
+      - Best Practices: getting_started/best_practices.md
+  - Job Scheduling & SLURM:
+      - SLURM Basics: slurm/basics.md
+      - Submitting Jobs: slurm/submitting.md
+      - Monitoring Jobs: slurm/monitoring.md
+      - SLURM Partitions: slurm/partitions.md
+      - Debugging Jobs: slurm/debugging.md
+  - Software & Modules:
+      - Available Software: software/available.md
+      - Using Modules: software/modules.md
+      - Installing Software: software/installing.md
+      - AI/ML & Quantum Computing: software/ai_ml.md
+  - Data Storage & Management:
+      - HPC Storage System: storage/system.md
+      - Data Backup & Archiving: storage/backup.md
+      - File System Quotas: storage/quotas.md
+  - Parallel Computing & Optimization:
+      - MPI & OpenMP: parallel/mpi_openmp.md
+      - GPU Acceleration: parallel/gpu.md
+      - Performance Optimization: parallel/optimization.md
+  - Tutorials & Documentation:
+      - HPC User Guides: tutorials/guides.md
+      - Step-by-Step Tutorials: tutorials/step_by_step.md
+      - Training Materials: tutorials/training.md
+  - Research & Case Studies:
+      - Success Stories: research/success.md
+      - Featured Projects: research/projects.md
+      - Publications & Papers: research/publications.md
+  - User Support & Policies:
+      - Helpdesk & Support: support/helpdesk.md
+      - FAQs: support/faqs.md
+      - HPC Policies: support/policies.md
+  - Contact & Feedback:
+      - Contact HPC Team: contact/team.md
+      - Reporting Issues: contact/issues.md
+      - Training Events: contact/training.md
