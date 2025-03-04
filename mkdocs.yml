@@ -1,4 +1,6 @@
-site_name: Tribhuvan University's Super Computer | HPC in Nepal
+site_name: Tribhuvan University's Super Computer (HPC)
+repo_url: https://github.com/amrltu/hpc-tu.github.io
+edit_uri: edit/main/docs/
 theme:
   name: material
   favicon: assets/img/logo2.png
@@ -7,9 +9,14 @@ theme:
   features:
     - navigation.footer
     - navigation.path
+    # - navigation.tabs
+    #- search.highlight
+    #- search.share
 
   #color pallate for light and dark
   palette:
+    - primary: blue
+    - accent: red
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -79,3 +86,13 @@ nav:
       - Contact HPC Team: contact/team.md
       - Reporting Issues: contact/issues.md
       - Training Events: contact/training.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.highlight
+  - pymdownx.details
