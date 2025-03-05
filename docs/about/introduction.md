@@ -47,6 +47,6 @@ TU HPC is continuously evolving with plans to:
 - Develop **customized HPC training programs** for students and researchers.
 - Strengthen **collaborations with industries and research labs**.
 
-For more details on how to access and utilize TU HPC, visit our [Getting Started Guide](../getting_started/access.md).
+For more details on how to access and utilize TU HPC, visit our [Getting Started Guide](../getting_started/ssh.md).
 
 > _Empowering Research with High-Performance Computing!_ 🚀

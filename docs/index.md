@@ -57,7 +57,7 @@ After receiving your credentials, connect to the cluster via SSH:
 ```bash
 ssh username@tu-ip-address
 ```
-For detailed instructions, visit the [Getting Started Guide](getting_started/access.md).
+For detailed instructions, visit the [Getting Started Guide](getting_started/ssh.md).
 
 ### Step 3: Submit Your First Job
 Learn how to run jobs using SLURM and optimize computing resources. See [SLURM Job Submission](slurm/submitting.md) for more details.
